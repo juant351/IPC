@@ -1,3 +1,2 @@
 # TermostatoJH
-Trabajo asignatura IPC (Interacción Persona-Computadora) del segundo curso correspondiente al grado Ingeniería Informática de la Universidad de Valladolid.
-Año 2021
+Práctica para aplicar el patrón de diseño MVC (Modelo-Vista-Controlador) donde se separa la funcionalidad/lógica del sistema de la parte de interfaz y de los datos.
